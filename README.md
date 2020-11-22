@@ -10,6 +10,14 @@
 
 [架构规范](https://github.com/jianghs/note/blob/main/standard/framework.md)
 
+## 模型
+
+[UML](https://github.com/jianghs/note/blob/main/standard/framework.md)
+
+## DDD
+
+[DDD 核心概念](https://github.com/jianghs/note/blob/main/standard/framework.md)
+
 ## 微服务
 
 [配置中心](https://github.com/jianghs/note/blob/main/micro-service/configuration-center.md)
