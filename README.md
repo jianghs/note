@@ -16,7 +16,7 @@
 
 ## DDD
 
-[DDD 核心概念](https://github.com/jianghs/note/blob/main/standard/framework.md)
+[DDD 核心概念](https://github.com/jianghs/note/blob/main/model/uml.md)
 
 ## 微服务
 
