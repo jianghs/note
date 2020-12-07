@@ -12,11 +12,11 @@
 
 ## 模型
 
-[UML](https://github.com/jianghs/note/blob/main/standard/framework.md)
+[UML](https://github.com/jianghs/note/blob/main/model/uml.md)
 
 ## DDD
 
-[DDD 核心概念](https://github.com/jianghs/note/blob/main/model/uml.md)
+[DDD 核心概念](https://github.com/jianghs/note/blob/main/ddd/ddd-core.md)
 
 ## 微服务
 
