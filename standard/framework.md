@@ -30,3 +30,20 @@
         - rpc：rpc数据通道
         - search：搜索数据通道
       - common：通用类
+
+domain独立
+
+controller依赖app
+
+app依赖client和infrastructure（主要是查询时需要使用）
+
+infrastructure依赖domain
+
+## 一个http请求的过程
+
+### 查
+
+controller -> client(Service) -> app(ServiceImpl) -> app(Command) -> infrastructure(mapper)
+
+### 增删改
+controller -> client(Service) -> app(ServiceImpl) -> app(Command) -> domain(gateway) -> infrastructure(gatewayimpl) ->infrastructure(mapper) ->事件发布
